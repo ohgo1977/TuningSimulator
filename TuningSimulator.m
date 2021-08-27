@@ -1,8 +1,8 @@
 function TuningSimulator(varargin)
 % Training Simulator to tune and match an NMR probe.
 %
-% 8/25/2021 Kosuke Ohgo
-%
+% 8/26/2021 Kosuke Ohgo
+% 
 % Please read README_TuningSimulator.docx for detail.
 
 global fig1 
